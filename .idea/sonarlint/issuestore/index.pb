@@ -15,3 +15,13 @@ B
 leetcode/README.md,3\3\33846247e470531b4e81f2698fc5d6a494f930b9
 >
 pyproject.toml,5\d\5d07e7d72637aa0d59c89d381fe6dc4cf46e2491
+I
+leetcode/leetcode/main.py,c\4\c496b72d424b30e76a7b999df574f592af0b5e5a
+K
+leetcode/tests/test_main.py,6\c\6c9ae8307cc9a2052a4ffa2992ff1394922b5259
+A
+leetcode/setup.py,f\1\f1103e247cb7e16603921149da2a89ef6a65e1aa
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
